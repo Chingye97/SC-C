@@ -1,2 +1,2 @@
 # SC-C
-SC&amp;C course 
+This is practical for sc&c course
